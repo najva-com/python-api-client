@@ -1,1 +1,1 @@
-from najva import Najva
+from najva_api_client import Najva
